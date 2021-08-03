@@ -1,0 +1,31 @@
+{
+  "version": "4.2.4",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "lib": [
+      "es2017",
+      "DOM"
+    ],
+    "baseUrl": "./src",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "ES2016",
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "strictNullChecks": true,
+    "strictBindCallApply": true
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}
