@@ -1,2 +1,2 @@
-# https://vkapp.apps-web.xyz/
+https://vkapp.apps-web.xyz/
 
